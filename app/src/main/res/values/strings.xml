@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Black Book</string>
+
+    <!-- Landing Activity -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+    <!-- Landing page -->
+    <string name="making_easy">Making Easy</string>
+    <string name="landing_page">The way to easy make you become like Fluency</string>
 </resources>
