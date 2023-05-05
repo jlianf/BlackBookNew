@@ -5,7 +5,11 @@
     <string name="skip">Skip</string>
     <string name="next">Next</string>
 
-    <!-- Landing page -->
+    <!-- Landing page one-->
     <string name="making_easy">Making Easy</string>
     <string name="landing_page">The way to easy make you become like Fluency</string>
+
+    <!-- Landing page two-->
+    <string name="convidance">Convidance</string>
+    <string name="landing_page_two">The way to easy make you become like Fluency</string>
 </resources>

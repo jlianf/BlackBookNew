@@ -11,5 +11,14 @@ class LandingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+
+        binding.tvSkip.setOnClickListener {
+            intentTo(MainActivity::class.java)
+            finish()
+        }
+
+        binding.btnVpNext.setOnClickListener{
+
+        }
     }
 }
