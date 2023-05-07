@@ -18,7 +18,11 @@ class LandingActivity : AppCompatActivity() {
         }
 
         binding.btnVpNext.setOnClickListener{
+            val currnetPosition = binding.vpLanding.currentItem
+            if (currnetPosition == LandingAdapter.itemCount - 1) {
 
+
+            }
         }
     }
 }
