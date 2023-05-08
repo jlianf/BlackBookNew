@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import com.jalian.blackbook.databinding.ActivityLandingPageTwoFragmentBinding
 
 class LandingPageTwoFragment : Fragment() {
-    private var _binding : ActivityLandingPageTwoFragmentBinding? = null!!
+    private var _binding : ActivityLandingPageTwoFragmentBinding? = null
     private val binding get() = _binding!!
 
     override fun onCreateView(
