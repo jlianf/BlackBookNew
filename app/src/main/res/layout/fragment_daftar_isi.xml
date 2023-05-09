@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentDaftarIsi">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/fontbold"
+        android:padding="10dp"
+        android:text="@string/daftar_isi"
+        android:textSize="38sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_introduction"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="56dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Introduction"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_wake_up"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Wake Up"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_bathroom"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Bathroom"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintStart_toStartOf="@+id/btn_introduction"
+        app:layout_constraintTop_toBottomOf="@+id/btn_introduction" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_breakfast"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Breakfast"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_wake_up"
+        app:layout_constraintTop_toBottomOf="@+id/btn_wake_up" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_time"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Time"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintStart_toStartOf="@+id/btn_bathroom"
+        app:layout_constraintTop_toBottomOf="@+id/btn_bathroom" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_directions"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/blue"
+        android:fontFamily="@font/fontbold"
+        android:padding="8dp"
+        android:text="Directions"
+        android:textSize="18sp"
+        app:cornerRadius="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_breakfast"
+        app:layout_constraintTop_toBottomOf="@+id/btn_breakfast" />
+</androidx.constraintlayout.widget.ConstraintLayout>
