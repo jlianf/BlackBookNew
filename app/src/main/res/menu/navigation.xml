@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_daftar_isi"
+        android:icon="@drawable/finance_chart_outlined_24"
+        android:title="@string/daftar_isi"/>
+    <item
+        android:id="@+id/fragment_materi"
+        android:icon="@drawable/layout_services_outlined_24"
+        android:title="@string/materi"/>
+</menu>

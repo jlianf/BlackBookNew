@@ -23,6 +23,6 @@
         android:layout_height="wrap_content"
         android:paddingVertical="10dp"
         app:labelVisibilityMode="labeled"
-        app:menu="@menu/nagigation"/>
+        app:menu="@menu/navigation"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

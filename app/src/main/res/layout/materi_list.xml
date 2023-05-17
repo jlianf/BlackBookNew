@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:cardCornerRadius="15dp">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tv_judul_materi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Materi"
+                android:fontFamily="@font/fontbold"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:id="@+id/tv_formal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Formal"
+                android:fontFamily="@font/fontbold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:id="@+id/tv_materi_formal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Isi Materi Formal"
+                android:fontFamily="@font/fontsemibold"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/tv_nonformal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Non Formal"
+                android:fontFamily="@font/fontbold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:id="@+id/tv_materi_nonformal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Isi Materi Non Formal"
+                android:fontFamily="@font/fontsemibold"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
