@@ -3,11 +3,21 @@
     <style name="Base.Theme.BlackBook" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/dark_pastel_green</item>
+        <item name="colorSecondaryVariant">@color/university_red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:elevation">0dp</item>
+        <!-- Customize your theme here. -->
+
     </style>
 
-    <style name="Theme.BlackBook" parent="Base.Theme.BlackBook" />
-    <style name="ThemeOverlay.BlackBook.FullscreenContainer" parent="">
-        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
-        <item name="fullscreenTextColor">@color/light_blue_A200</item>
-    </style>
+
 </resources>
