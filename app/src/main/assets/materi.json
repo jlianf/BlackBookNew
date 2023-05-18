@@ -1,0 +1,330 @@
+[
+  {
+    "title": "INTRODUCTION",
+    "subTitle": "Perkenalan",
+    "fields": [
+      {
+        "title": "Good Morning, sir",
+        "subTitle": "Selamat Pagi, Pak",
+        "category": "Formal"
+      },
+      {
+        "title": "Good Afternoon, Madam",
+        "subTitle": "Selamat Siang, Bu",
+        "category": "Formal"
+      },
+      {
+        "title": "Good Evening, ladies and gentlemen",
+        "subTitle": "Selamat Malam para hadirin",
+        "category": "Formal"
+      },
+      {
+        "title": "How Are You Today Mr. David ?",
+        "subTitle": "Apa Kabara Hari Ini Pak David ?",
+        "category": "Formal"
+      },
+      {
+        "title": "Hi, Dude",
+        "subTitle": "Hi, Guys",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Morning, Pals",
+        "subTitle": "Pagi Kawan-Kawang",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Hello, Kids",
+        "subTitle": "Halo Anak-Anak",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Long Time No See",
+        "subTitle": "Sudah Lama Kita Tidak Bertemu",
+        "category": "Non Formal"
+      },
+      {
+        "title": "It's lovely weather, huh",
+        "subTitle": "Cuacanya Bagus Yah",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Hi, i'm Rahma",
+        "subTitle": "Hai, Gue Rahma",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Hello, i'm Helmi",
+        "subTitle": "Halo Gue Helmi",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Oh, nice to see you Helmi",
+        "subTitle": "Oh, senang kenalan dengan elo Helmi",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Nice to meet you too",
+        "subTitle": "Senang kenalan dengan elo juga",
+        "category": "Non Formal"
+      },
+      {
+        "title": "By the way, where are you from Helmi?",
+        "subTitle": "Ngomong-ngomong, dari mana asal lo mi?",
+        "category": "Non Formal"
+      },
+      {
+        "title": "I'm from lampung",
+        "subTitle": "Gue dari lampung",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Wow, what part of Lampung exactly?",
+        "subTitle": "Wow, Lampung dimananya?",
+        "category": "Non Formal"
+      },
+      {
+        "title": "It's in Bandar Lampung",
+        "subTitle": "Di Bandar Lampung",
+        "category": "Non Formal"
+      },
+      {
+        "title": "What about you Rahma?",
+        "subTitle": "Kalo elo Rahma?",
+        "category": "Non Formal"
+      },
+      {
+        "title": "I'm from Kalianda, South Lampung",
+        "subTitle": "Gue dri Kalianda, Lampung Selatan",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Where do you live?",
+        "subTitle": "Lo tinggal dimana?",
+        "category": "Non Formal"
+      },
+      {
+        "title": "I live in Sebesi street no 1, Sukarame",
+        "subTitle": "Gue tinggal di jalan Sebesi nomor 1, Sukarame",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Do you word or study?",
+        "subTitle": "Lo kerja atau sekolah/kuliah?",
+        "category": "Non Formal"
+      },
+      {
+        "title": "I'm a student",
+        "subTitle": "Gue pelajar/mahasiswa",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Oh I see",
+        "subTitle": "Oh gitu",
+        "category": "Non Formal"
+      },
+      {
+        "title": "Excus me, I gotta go. See you later",
+        "subTitle": "Wah, maaf nih gue harus pergi dulu, sampe ketemu lagi",
+        "category": "Non Formal"
+      }
+    ]
+  },
+  {
+    "title": "WAKING UP",
+    "subTitle": "Bangun Tidur",
+    "fields": [
+      {
+        "title": "Hi, are you up?",
+        "subTitle": "Hei, udah bangun belom?",
+        "category": ""
+      },
+      {
+        "title": "Hi, Morning. I just woke up.",
+        "subTitle": "Hai, met pagi. Gue baru bangun nih.",
+        "category": ""
+      },
+      {
+        "title": "How was your sleep last night?",
+        "subTitle": "Gimana tidur lo semalem?",
+        "category": ""
+      },
+      {
+        "title": "It was nice, I slept like a baby",
+        "subTitle": "Gue tidur nyeyak banget",
+        "category": ""
+      },
+      {
+        "title": "What about you?",
+        "subTitle": "Elo gimana?",
+        "category": ""
+      },
+      {
+        "title": "I heard that you snored last night.",
+        "subTitle": "Gue denger lo ngorok semalem.",
+        "category": ""
+      },
+      {
+        "title": "What time did you sleep?",
+        "subTitle": "Jam berapa lo tidur semalem?",
+        "category": ""
+      },
+      {
+        "title": "Thanks for waking me up.",
+        "subTitle": "Makasih ya udah bangunin.",
+        "category": ""
+      },
+      {
+        "title": "Nevermind",
+        "subTitle": "Iya ga masalah.",
+        "category": ""
+      },
+      {
+        "title": "Anyway, I dreamed last night.",
+        "subTitle": "Ngomong-ngomong semalem gw mimpi loh.",
+        "category": ""
+      },
+      {
+        "title": "What was it about?",
+        "subTitle": "Mimpi apa?",
+        "category": ""
+      },
+      {
+        "title": "I met my ex-girl.",
+        "subTitle": "Bau banget sih lo?",
+        "category": ""
+      },
+      {
+        "title": "I wanna sleep back",
+        "subTitle": "Gue mau tidur lagi",
+        "category": ""
+      },
+      {
+        "title": "Turn off the light",
+        "subTitle": "Matiin lampunya dong.",
+        "category": "More Expressions"
+      },
+      {
+        "title": "I can't sleep",
+        "subTitle": "Gue gak bisa tidur",
+        "category": "More Expressions"
+      },
+      {
+        "title": "Try to count the sheeps",
+        "subTitle": "Cobalah menghitung domba",
+        "category": "More Expressions"
+      },
+      {
+        "title": "Sleep tight",
+        "subTitle": "Tidur yang lelap",
+        "category": "More Expressions"
+      }
+    ]
+  },
+  {
+    "title": "IN THE BATHROOM",
+    "subTitle": "Di Kamar Mandi",
+    "fields": [
+      {
+        "title": "Have you taken a bath?",
+        "subTitle": "Udah mandi belum?",
+        "category": ""
+      },
+      {
+        "title": "Your breath is stink",
+        "subTitle": "Nafas lo bau banget",
+        "category": ""
+      },
+      {
+        "title": "Just knock the door",
+        "subTitle": "Ketok aja pintunya",
+        "category": ""
+      },
+      {
+        "title": "I am in Hury",
+        "subTitle": "Gue buru-buru nih",
+        "category": ""
+      },
+      {
+        "title": "It's a bad time",
+        "subTitle": "Nanggung nih",
+        "category": ""
+      },
+      {
+        "title": "Don't take too long!",
+        "subTitle": "Jangan lama lama",
+        "category": ""
+      },
+      {
+        "title": "No littering",
+        "subTitle": "Jangan buang sampah sembarangan",
+        "category": ""
+      },
+      {
+        "title": "May i use your rest room/ladies room?",
+        "subTitle": "Boleh numpang ke toilet",
+        "category": ""
+      },
+      {
+        "title": "I haven't taken a bath yet",
+        "subTitle": "Gua belom mandi",
+        "category": ""
+      },
+      {
+        "title": "Who's inside?",
+        "subTitle": "Siapa di dalam",
+        "category": ""
+      },
+      {
+        "title": "Make it fast, please!",
+        "subTitle": "Cepetan dong!",
+        "category": ""
+      },
+      {
+        "title": "Make a line, please!",
+        "subTitle": "Antri dong!",
+        "category": ""
+      },
+      {
+        "title": "Bring me my towel, please!",
+        "subTitle": "Ambilin anduk gue dong, tolong!",
+        "category": ""
+      },
+      {
+        "title": "My stomach is killing me!",
+        "subTitle": "Gue sakit perut nih!",
+        "category": ""
+      },
+      {
+        "title": "I wanna take a dump",
+        "subTitle": "Gue mau BAB",
+        "category": ""
+      },
+      {
+        "title": "May i ask your shampoo?",
+        "subTitle": "Boleh minta shampoo ga?",
+        "category": ""
+      },
+      {
+        "title": "I wanna see the john",
+        "subTitle": "Gue mau ke toilet",
+        "category": ""
+      },
+      {
+        "title": "My toothpaste is used up!",
+        "subTitle": "Odol gue abis!",
+        "category": ""
+      },
+      {
+        "title": "I wanna take a pee",
+        "subTitle": "Gue mau pipis",
+        "category": ""
+      },
+      {
+        "title": "My toothbrush is worn out",
+        "subTitle": "Sakit gigi gue udah rusak",
+        "category": ""
+      }
+    ]
+  }
+]

@@ -85,6 +85,9 @@ dependencies {
     annotationProcessor "androidx.room:room-compiler:2.4.0-alpha03"
     kapt 'androidx.room:room-compiler:2.4.0-alpha03'
 
-    // dot indicator dependency
+    //dot indicator dependency
     implementation("com.tbuonomo:dotsindicator:4.3")
+
+    //for JSON file
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
